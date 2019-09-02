@@ -1,0 +1,166 @@
+2019-08-19 15:08:34,377 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 7992 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:08:34,390 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:08:34,392 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:08:41,261 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 7.28 seconds (JVM running for 8.07)
+2019-08-19 15:08:41,264 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:08:41,357 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:11:32,256 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 7992 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:11:32,258 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:11:32,259 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:11:42,024 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 10.232 seconds (JVM running for 188.834)
+2019-08-19 15:11:42,232 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:11:42,247 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:11:57,492 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 7992 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:11:57,492 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:11:57,493 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:11:58,823 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 1.358 seconds (JVM running for 205.633)
+2019-08-19 15:11:58,826 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:11:58,833 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:16:06,238 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 7992 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:16:06,239 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:16:06,239 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:16:07,661 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 1.453 seconds (JVM running for 454.471)
+2019-08-19 15:16:07,666 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:16:07,680 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:17:11,917 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 9032 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:17:11,920 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:17:11,921 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:17:18,352 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.814 seconds (JVM running for 7.503)
+2019-08-19 15:17:18,355 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:17:18,443 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:19:54,059 ERROR org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter [http-nio-8088-exec-1] An internal error occurred while trying to authenticate the user.
+org.springframework.security.authentication.InternalAuthenticationServiceException: null
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:123)
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:144)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:174)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:199)
+	at org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter.attemptAuthentication(UsernamePasswordAuthenticationFilter.java:94)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:66)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+Caused by: java.lang.NullPointerException: null
+	at com.jonathanweb.funescalade.service.UserServiceImpl.loadUserByUsername(UserServiceImpl.java:67)
+	at com.jonathanweb.funescalade.service.UserServiceImpl$$FastClassBySpringCGLIB$$10c4c6a4.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:294)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.jonathanweb.funescalade.service.UserServiceImpl$$EnhancerBySpringCGLIB$$1505affa.loadUserByUsername(<generated>)
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:108)
+	... 54 common frames omitted
+2019-08-19 15:22:46,321 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 9032 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:22:46,323 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:22:46,325 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:22:47,984 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 1.718 seconds (JVM running for 337.136)
+2019-08-19 15:22:48,797 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:22:48,833 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:23:37,264 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 1416 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:23:37,268 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:23:37,269 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:23:43,727 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.836 seconds (JVM running for 7.539)
+2019-08-19 15:23:43,730 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:23:43,806 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:47:41,150 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 13736 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:47:41,156 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:47:41,158 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:47:48,120 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 7.376 seconds (JVM running for 8.083)
+2019-08-19 15:47:48,123 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:47:48,237 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:48:22,063 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 13736 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:48:22,064 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:48:22,068 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:48:23,835 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 1.837 seconds (JVM running for 43.799)
+2019-08-19 15:48:23,838 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:48:23,848 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:51:16,315 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 10792 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:51:16,321 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:51:16,328 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:51:22,472 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.494 seconds (JVM running for 7.182)
+2019-08-19 15:51:22,474 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:51:22,556 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 15:53:22,509 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 10792 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 15:53:22,510 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 15:53:22,510 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 15:53:23,767 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 1.291 seconds (JVM running for 128.478)
+2019-08-19 15:53:23,770 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 15:53:23,783 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 16:05:09,068 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 10004 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 16:05:09,072 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 16:05:09,073 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 16:05:15,579 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.872 seconds (JVM running for 7.604)
+2019-08-19 16:05:15,582 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 16:05:15,679 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 16:12:20,097 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 9828 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 16:12:20,101 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 16:12:20,102 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 16:12:26,170 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.464 seconds (JVM running for 7.159)
+2019-08-19 16:12:26,173 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 16:12:26,249 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 16:16:14,436 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 12968 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 16:16:14,440 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 16:16:14,441 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 16:16:20,571 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.488 seconds (JVM running for 7.191)
+2019-08-19 16:16:20,573 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 16:16:20,660 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 16:18:35,246 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 6468 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 16:18:35,249 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 16:18:35,250 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 16:18:41,953 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 7.093 seconds (JVM running for 7.842)
+2019-08-19 16:18:41,956 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 16:18:42,059 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
+2019-08-19 16:19:56,514 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Starting FunEscaladeApplication on DESKTOP-K7ITJNJ with PID 5096 (C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent\target\classes started by Utilisateur in C:\Users\Utilisateur\eclipse-workspace\EscaladeBootCurrent)
+2019-08-19 16:19:56,519 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-08-19 16:19:56,524 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] The following profiles are active: dev
+2019-08-19 16:20:02,906 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Started FunEscaladeApplication in 6.754 seconds (JVM running for 7.442)
+2019-08-19 16:20:02,910 DEBUG com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-08-19 16:20:03,003 INFO com.jonathanweb.funescalade.FunEscaladeApplication [restartedMain] Start FunEscaladeAplication GO! ...
