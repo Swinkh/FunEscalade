@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html >
 <head>
-  <title>FunEscalade</title>
+  <title>Result</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -36,6 +36,10 @@
 
     </header>  
 
-    <p> Bienvenue sur Fun Escalade blablabla</p>
+    
+   	<h1>Result</h1>
+    <p th:text="'username: ' + ${utilisateur.username}" >
+    <p th:text="'password: ' + ${utilisateur.password}" >
+    <a href="/connexion">réessayer</a>
 </body>
 </html>

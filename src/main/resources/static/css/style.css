@@ -1,7 +1,7 @@
 /* Space out content a bit */
 body {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  
+  background-color: #FFE4C4;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -10,6 +10,10 @@ body {
 .footer {
   padding-left: 15px;
   padding-right: 15px;
+}
+
+h1{
+
 }
 
 /* Custom page header */

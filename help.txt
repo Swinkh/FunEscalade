@@ -1,0 +1,16 @@
+--cycle maven
+
+Maven est cyclique
+
+1)mvn clean (n'est pas dans le cycle il est parallèle)
+
+2)mvn compile
+3)mvn test
+4)mvn package (créer le war/jar et le dépose dans target)
+5)mvn install( ajoute le war/jar a m2)  (-o offline pas de maj des dépendance)
+
+
+6)mvn deploy(spring-boot:run)
+
+après le -jar -D(clé/valeur) ex:server.port=
+

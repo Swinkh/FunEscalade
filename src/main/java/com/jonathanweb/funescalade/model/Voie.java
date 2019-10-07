@@ -1,11 +1,27 @@
 package com.jonathanweb.funescalade.model;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "VOIE")
 public class Voie {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	
 	private int height;
+	
 	private String cotation;
+	
 	private int nbPoint;
+	
 	private String name;
+	
 	private int secteur_ID;
 		
 	
@@ -55,6 +71,14 @@ public class Voie {
 	public void setName(String nom) {
 		this.name = nom;
 	}
+	public synchronized int getId() {
+		return id;
+	}
+
+	public synchronized void setId(int id) {
+		this.id = id;
+	}
+
 	@Override
 	public String toString() {
 		return "Voie [name=" + name + ", height=" + height + ",cotation=" + cotation + ", nbPoint=" + nbPoint + "]";

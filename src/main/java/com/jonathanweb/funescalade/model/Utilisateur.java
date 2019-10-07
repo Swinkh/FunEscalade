@@ -1,16 +1,45 @@
 package com.jonathanweb.funescalade.model;
 
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+
+import com.jonathanweb.funescalade.model.Profile;
+
+@Entity
+@Table(name = "UTILISATEUR")
 public class Utilisateur {
+	
 	private String firstname;
+	
 	private String name;
+	
 	private String username;
+	
 	private String password;
+	
 	private String birthPlace;
+	
 	private String sex;
+	
 	private String birthDate;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
+	
+	@Enumerated(EnumType.STRING)
+	private Profile profile;
+	
 	private String mail;
-	private boolean log;
+	
+//	private boolean log;
+	
 	
 	public Utilisateur() {
 		
@@ -84,13 +113,13 @@ public class Utilisateur {
 		this.birthDate = birthDate;
 	}
 
-	public synchronized boolean isLog() {
-		return log;
-	}
-
-	public synchronized void setLog(boolean log) {
-		this.log = log;
-	}
+//	public synchronized boolean isLog() {
+//		return log;
+//	}
+//
+//	public synchronized void setLog(boolean log) {
+//		this.log = log;
+//	}
 
 	public synchronized String getMail() {
 		return mail;

@@ -2,9 +2,24 @@ package com.jonathanweb.funescalade.model;
 
 import java.util.ArrayList;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "SECTEUR")
 public class Secteur {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id; 
+	
 	private String nom;
+	
 	private ArrayList<Voie> voies;
+	
 	private int site_id;
 	
 	public Secteur () {
@@ -33,6 +48,14 @@ public class Secteur {
 	}
 	public void setSite_id(int site_id) {
 		this.site_id = site_id;
+	}
+
+	public synchronized int getId() {
+		return id;
+	}
+
+	public synchronized void setId(int id) {
+		this.id = id;
 	}
 	
 }
