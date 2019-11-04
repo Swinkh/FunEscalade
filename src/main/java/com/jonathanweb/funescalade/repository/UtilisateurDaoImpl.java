@@ -1,4 +1,4 @@
-package com.jonathanweb.funescalade.service;
+package com.jonathanweb.funescalade.repository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

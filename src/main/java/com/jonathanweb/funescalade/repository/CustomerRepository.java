@@ -1,4 +1,4 @@
-package com.jonathanweb.funescalade.service;
+package com.jonathanweb.funescalade.repository;
 
 import java.util.List;
 

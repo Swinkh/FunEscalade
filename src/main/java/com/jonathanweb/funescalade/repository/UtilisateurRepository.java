@@ -1,4 +1,4 @@
-package com.jonathanweb.funescalade.service;
+package com.jonathanweb.funescalade.repository;
 
 import java.util.List;
 import java.util.Optional;
@@ -9,5 +9,6 @@ import com.jonathanweb.funescalade.model.Utilisateur;
 
 public interface UtilisateurRepository extends CrudRepository<Utilisateur,String> {
 	List<Utilisateur> findByUsername (String username);
-	 Utilisateur findByUsernameAndPassword(String username,String password); 
+	
+	Optional<Utilisateur>  findByUsernameAndPassword(String username,String password); 
 }

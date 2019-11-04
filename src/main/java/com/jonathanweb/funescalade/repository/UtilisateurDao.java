@@ -1,4 +1,4 @@
-package com.jonathanweb.funescalade.service;
+package com.jonathanweb.funescalade.repository;
 
 import com.jonathanweb.funescalade.model.Utilisateur;
 

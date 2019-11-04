@@ -1,5 +1,7 @@
 package com.jonathanweb.funescalade.controller;
 
+import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Controller;
@@ -9,12 +11,13 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
 import com.jonathanweb.funescalade.model.Utilisateur;
-import com.jonathanweb.funescalade.service.UtilisateurRepository;
+import com.jonathanweb.funescalade.repository.UtilisateurRepository;
+import com.jonathanweb.funescalade.service.UtilisateurServices;
 
 @Controller
 public class ConnectController {
 	@Autowired
-	private UtilisateurRepository utilRep;
+	private UtilisateurServices utilisateurServices;
 
 	@GetMapping("/connexion")
 	public String displayConnexion(Model model) {
@@ -28,8 +31,8 @@ public class ConnectController {
 		
 			String uName =utilisateur.getUsername();
 			String pass = utilisateur.getPassword();
-			Utilisateur utilDb = utilRep.findByUsernameAndPassword(uName,pass);
-			if(utilDb!= null) {
+			Optional<Utilisateur> utilisateurDb = utilisateurServices.findByUsernameAndPassword(uName,pass);
+			if(utilisateurDb.isPresent()) {
 				return "result";
 			}else {
 				return "index";

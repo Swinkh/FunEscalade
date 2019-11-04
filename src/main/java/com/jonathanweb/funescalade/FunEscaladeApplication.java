@@ -12,10 +12,10 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.jonathanweb.funescalade.service.CustomerRepository;
-import com.jonathanweb.funescalade.service.UtilisateurDao;
 import com.jonathanweb.funescalade.model.Customer;
 import com.jonathanweb.funescalade.model.Utilisateur;
+import com.jonathanweb.funescalade.repository.CustomerRepository;
+import com.jonathanweb.funescalade.repository.UtilisateurDao;
 
 
 
