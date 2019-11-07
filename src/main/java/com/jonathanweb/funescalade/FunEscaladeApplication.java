@@ -19,7 +19,7 @@ import com.jonathanweb.funescalade.repository.UtilisateurDao;
 
 
 
-
+@Transactional
 @SpringBootApplication
 public class FunEscaladeApplication  {
 	

@@ -20,4 +20,10 @@ public class UtilisateurServiceImpl implements UtilisateurServices {
 		return user;
 	}
 
+	@Override
+	public void saveUtilisateur(Utilisateur utilisateur) {
+		utiliRepo.save(utilisateur);
+		
+	}
+
 }

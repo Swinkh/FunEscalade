@@ -40,19 +40,19 @@
 
     <h1> Création d'un nouveau compte: <h1>
        
-      <form class="well">
+      <form class="well" action='#' th:action="@{/account}" th:object="${utilisateur}" method="post">
   <legend>Merci de bien vouloir renseigner les champs suivants</legend>
   <h4>Votre sexe ?</h4>
   <fieldset>
     <div class="radio">
       <label for="ami" class="radio">
-        <input type="radio" name="origine" value="homme" id="homme">
+        <input type="radio" name="origine" value="homme" id="homme" th:field="*{sex}">
         <p>Homme</p> 
       </label>
     </div>
     <div class="radio">
       <label for="web" class="radio">
-        <input type="radio" name="origine" value="femme" id="femme">
+        <input type="radio" name="origine" value="femme" id="femme"th:field="*{sex}">
         <p>Femme</p> 
       </label>
     </div>
@@ -61,38 +61,38 @@
 
     <div class="radio">
       <label for="ami" class="radio">
-        <input type="radio" name="origine" value="Francais" id="francais">
+        <input type="radio" name="origine" value="Francais" id="francais" th:field="*{birthPlace}">
         <p>Francais</p> 
       </label>
     </div>
     <div class="radio">
       <label for="web" class="radio">
-        <input type="radio" name="origine" value="Espagnol" id="espagnol">
+        <input type="radio" name="origine" value="Espagnol" id="espagnol" th:field="*{birthPlace}">
         <p>Espagnol</p> 
       </label>
 
       <div class="radio">
       <label for="ami" class="radio">
-        <input type="radio" name="origine" value="Italien" id="Italien">
+        <input type="radio" name="origine" value="Italien" id="Italien" th:field="*{birthPlace}">
         <p>Italien</p> 
       </label>
     </div>
     <div class="radio">
       <label for="web" class="radio">
-        <input type="radio" name="origine" value="Anglais" id="Anglais">
+        <input type="radio" name="origine" value="Anglais" id="Anglais" th:field="*{birthPlace}">
         <p>Anglais</p> 
       </label>
     </div>
     <div class="radio">
       <label for="ami" class="radio">
-        <input type="radio" name="origine" value="autre" id="autre">
+        <input type="radio" name="origine" value="autre" id="autre" th:field="*{birthPlace}">
         <p>autre</p> 
       </label>
     </div>
     </div>
           <h4> Votre date de naissance</h4>
 
-          <input type="date" name="anniversaire">
+          <input type="date" name="anniversaire" th:field="*{birthDate}">
   
     
       
@@ -100,9 +100,33 @@
       <h4> Votre adresse mail</h4>
 
       <label for="textarea"> <p>votre mail : </p></label>
-      <textarea id="textarea" class="form-control" rows="1"></textarea>
+      <textarea id="textarea" class="form-control" rows="1" th:field="*{mail}">  </textarea>
       <label for="textarea"> <p>confirmation : </p></label>
       <textarea id="textarea" class="form-control" rows="1"></textarea>
+      
+      
+      <h4> Votre pseudo</h4>
+
+      <label for="textarea"> <p>pseudo : </p></label>
+      <textarea id="textarea" class="form-control" rows="1" th:field="*{username}">  </textarea>
+      
+       <h4> Votre mot de passe</h4>
+
+      <label for="textarea"> <p>mot de passe </p></label>
+      <textarea id="textarea" class="form-control" rows="1" th:field="*{password}">  </textarea>
+      
+      <label for="textarea"> <p>confirmation : </p></label>
+      <textarea id="textarea" class="form-control" rows="1"></textarea>
+      
+      <h4> Votre prénom</h4>
+
+      <label for="textarea"> <p>prénom: </p></label>
+      <textarea id="textarea" class="form-control" rows="1" th:field="*{firstname}">  </textarea>
+      
+       <h4> Votre nom</h4>
+
+      <label for="textarea"> <p>nom: </p></label>
+      <textarea id="textarea" class="form-control" rows="1" th:field="*{name}">  </textarea>
       
       <div class="form-group">
   <label class="col-md-4 control-label" for="Validez"></label>
